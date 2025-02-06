@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/harrisburg/</loc>
-		<lastmod>2025-02-06T00:55:30+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/scranton/</loc>
-		<lastmod>2025-02-06T00:55:29+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/bethlehem-2/</loc>
-		<lastmod>2025-02-06T00:55:29+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lancaster/</loc>
-		<lastmod>2025-02-06T00:55:29+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/allentown/</loc>
-		<lastmod>2025-02-06T00:55:28+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/erie/</loc>
-		<lastmod>2025-02-06T00:55:28+00:00</lastmod>
+		<loc>/harrisburg/</loc>
+		<lastmod>2025-02-06T20:45:38+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/reading/</loc>
-		<lastmod>2025-02-06T00:55:28+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/williamsport/</loc>
-		<lastmod>2025-02-06T00:55:27+00:00</lastmod>
+		<loc>/scranton/</loc>
+		<lastmod>2025-02-06T20:45:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/allentown/</loc>
+		<lastmod>2025-02-06T20:45:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/erie/</loc>
+		<lastmod>2025-02-06T20:45:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/easton/</loc>
-		<lastmod>2025-02-06T00:55:27+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/pittsburgh/</loc>
-		<lastmod>2025-02-06T00:55:27+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/williamsport/</loc>
+		<lastmod>2025-02-06T20:45:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lebanon/</loc>
-		<lastmod>2025-02-06T00:55:26+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/hazleton/</loc>
-		<lastmod>2025-02-06T00:55:26+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/chester/</loc>
-		<lastmod>2025-02-06T00:55:25+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/bethlehem/</loc>
-		<lastmod>2025-02-06T00:55:25+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/pottstown/</loc>
-		<lastmod>2025-02-06T00:55:25+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/york/</loc>
-		<lastmod>2025-02-06T00:55:24+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/state-college/</loc>
-		<lastmod>2025-02-06T00:55:24+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/wilkes-barre/</loc>
-		<lastmod>2025-02-06T00:55:24+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/altoona/</loc>
-		<lastmod>2025-02-06T00:55:23+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/york/</loc>
+		<lastmod>2025-02-06T20:45:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/philadelphia/</loc>
-		<lastmod>2025-02-06T00:55:23+00:00</lastmod>
+		<lastmod>2025-02-06T20:45:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
